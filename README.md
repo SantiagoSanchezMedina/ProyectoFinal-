@@ -11,6 +11,10 @@ El proyecto consiste en la implementación técnica y visual de una escena 3D co
 Se buscó una implementación limpia y funcional, priorizando la correcta geometría y texturizado.
 
 Link al video demostrativo: https://youtu.be/qDD2HFZ3GEc
+Link a GitHub de la primera implementación en OpenGL: https://github.com/CeciliaXimenaSolisCisneros/ProyectoCompuGrafica
+Link a GitHub de la segunda implementación en OpenGL: 
+https://github.com/PablinCu02/Proyecto_CGEIHC
+
 ## 🛠️ Herramientas
 * **Unity** (Motor gráfico)
 * **Blender** (Modelado 3D)
