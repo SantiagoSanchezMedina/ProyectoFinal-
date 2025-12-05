@@ -10,6 +10,7 @@ Este repositorio aloja el proyecto final para la asignatura de **Computación Gr
 El proyecto consiste en la implementación técnica y visual de una escena 3D con temática prehispánica. El objetivo principal es demostrar la integración de assets creados desde cero en un motor gráfico en tiempo real, aplicando los fundamentos teóricos de la graficación por computadora.
 Se buscó una implementación limpia y funcional, priorizando la correcta geometría y texturizado.
 
+Link al video demostrativo: https://youtu.be/qDD2HFZ3GEc
 ## 🛠️ Herramientas
 * **Unity** (Motor gráfico)
 * **Blender** (Modelado 3D)
